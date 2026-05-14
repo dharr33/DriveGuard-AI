@@ -254,6 +254,4 @@ This project is open-source and available under the MIT License.
 
 # 👨‍💻 Author
 
-Cavin S
-
-GitHub: https://github.com/cavxn
+Developed as a collaborative/group project
